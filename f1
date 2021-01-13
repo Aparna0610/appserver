@@ -5,8 +5,8 @@
 </head>
 <body>
 
-<h1>Product Branch</h1>
-<p>Modified f1 from product-branch</p>
-
+<<<<<<< HEAD
+<h1>Product Branch</h1
+<p>Modified f1 from product-branch merging</p>
 </body>
 </html>
